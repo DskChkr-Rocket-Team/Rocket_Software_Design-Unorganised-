@@ -1,5 +1,5 @@
 /*
- * bmi088.h - BMI088 6-Axis IMU Driver (24g Accelerometer + 2000°/s Gyro)
+ * bmi088.h - BMI088 6-Axis IMU Driver (24g Accelerometer + 2000deg/s Gyro)
  * Bosch BMI088 - High performance IMU with separate accel/gyro dies
  */
 

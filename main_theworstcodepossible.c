@@ -1,6 +1,5 @@
 /*
  * main.c - Flight Computer Main Application
- * Complete rocket flight computer with all sensors and pyro control
  */
 
 #include "main.h"

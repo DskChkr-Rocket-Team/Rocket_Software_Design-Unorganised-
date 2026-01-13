@@ -1,7 +1,3 @@
-/*
- * flight_config.h - Flight Computer Configuration
- * Adjust these values for your specific rocket
- */
 
 #ifndef __FLIGHT_CONFIG_H
 #define __FLIGHT_CONFIG_H
